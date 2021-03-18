@@ -4,7 +4,10 @@ using System.Collections.Generic;
 namespace Offer_05_替换空格
 {
     class Program
-    {
+    {/// <summary>
+    /// /asd 
+    /// </summary>
+    /// <param name="args"></param>
         static void Main(string[] args)
         {
             Console.WriteLine(ReplaceSpace("We are happy."));
